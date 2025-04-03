@@ -120,6 +120,6 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 # nginx -s reload
 2023/06/17 15:00:53 [notice] 36#36: signal process started
 
-Because I have modified the hosts file of win10de, resolved the domain names I need to the IP of the virtual machine, I can experiment smoothly. Access https://swjnxyf.cc/ is OK. Prompt certificate risk, ignore it.。
+Because I have modified the hosts file of win10, resolved the domain names I need to the IP of the virtual machine, I can experiment smoothly. Access https://swjnxyf.cc/ is OK. Prompt certificate risk, ignore it.。
 ```
 
