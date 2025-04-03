@@ -123,10 +123,3 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 Because I have modified the hosts file of win10de, resolved the domain names I need to the IP of the virtual machine, I can experiment smoothly. Access https://swjnxyf.cc/ is OK. Prompt certificate risk, ignore it.。
 ```
 
-# After that,you will have some experience to the nginx.
-
-
-
-### And then.
-
-### I believe you can modify the nginx.conf ,just change the content in the location and then it will work.
